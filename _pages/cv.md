@@ -8,22 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click To get my resume](https://muthu.ml/files/MuthuAlagappan.pdf)
+[Click To get my resume](https://muthu.ml/files/MuthuAlagappan.pdf)<br>
 Education
 ======
-* M.S. in Computer Science, University of Southern California, 2020 (expected)
-* B.Tech. in Information Technology, College of Engineering Guindy, Anna University, 2018
+* **M.S.** in **Computer Science, University of Southern California, 2020 (expected)**
+* **B.Tech.** in **Information Technology, College of Engineering Guindy, Anna University, 2018**
 
 Work experience
 ======
-* September 2018 - Present: Video Researcher
+* September 2018 - Present: **Video Researcher**
   * University of Southern California
   * Duties included:
     * Researching in a group of 3 to track fruit-flies using synchronized cameras
     * Developing a program to map the ability of fruit-flies against their age using OpenCV, C++, R
   * Supervisor: [Professor Dr. John Tower](https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003772)
 
-* Summer 2017: Research Assistant
+* Summer 2017: **Research Assistant**
   * University of Winnipeg
   * Duties included:
     * Adopted semantic segmentation algorithm to classify satellite images into 18 categories (forest, marshland, agricultural etc.)
