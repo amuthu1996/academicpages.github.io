@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Muthu Palaniappan Alagappan"
-  avatar           : "profile.png"
+  avatar           : "muthu_pic.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Los Angeles"
   employer         :
@@ -99,7 +99,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "muthupaa"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
