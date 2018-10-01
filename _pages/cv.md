@@ -33,13 +33,13 @@ Work experience
     * Adopted semantic segmentation algorithm to classify satellite images into 18 categories (forest, marshland, agricultural etc.)
     * Implemented Neural Network architecture based on VGG and FCN using Python, Tensorflow and, Matlab
     * Achieved an accuracy of 88% for land use and land cover classification
-    * Accepted at <a href="https://www.tandfonline.com/toc/tres20/current" style="color: blue" target = "_blank">International Journal of Remote Sensing​</a>, paper entitled “Automated LULC Map Production using Deep Neural Networks”
+    * Accepted at <a href="https://www.tandfonline.com/toc/tres20/current" style="color: blue" target = "_blank">International Journal of Remote Sensing​</a>, paper entitled **Automated LULC Map Production using Deep Neural Networks**
   * Supervisor: <a href="https://www.acs.uwinnipeg.ca/chenry/" style="color: blue" target = "_blank">Dr. Chris Henry</a>
 
 Area Of Interests
 ======
 
-<center><b>AI (Machine Learning, Reinforcement Learning), Game Theory, Behavioural Economics, Robotics<b></center>
+<center><b>AI (Machine Learning, Reinforcement Learning), Game Theory, Behavioural Economics, Robotics</b></center>
 
 
 Skills
