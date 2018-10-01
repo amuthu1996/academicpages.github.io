@@ -45,16 +45,16 @@ Area Of Interests
 Skills
 ======
 
-* **Programming Languages**: Python, C, C++
-* **ML Frameworks**: Tensorflow, PyTorch, Scikit-Learn
-* **Web Development**: HTML5, CSS3, JavaScript, PHP, MySQL
-* **Embedded Systems**: Arduino, Raspberry Pi, Intel Galileo
-* **Tools**: git, LaTex, Docker
+* **Programming Languages** : Python, C, C++
+* **ML Frameworks**         : Tensorflow, PyTorch, Scikit-Learn
+* **Web Development**       : HTML5, CSS3, JavaScript, PHP, MySQL
+* **Embedded Systems**      : Arduino, Raspberry Pi, Intel Galileo
+* **Tools**                 : git, LaTex, Docker
 
 Service and leadership
 ======
 * Led the Student chapter ​of **Association of Computer Machinery (ACM)** ​as **Chairperson** ​from **July 2017 - Apr 2018**
-* Organized events on computational thinking for school kids called as [Prodigy](https://prodigy2017.github.io/) with 60+ participants and hackathon exclusively for girls called [Codher](https://codher2018.github.io/) with participants from 5+ colleges
-* Managed technical operations of student run magazine [Guindy Times](https://guindytimes.com/) as **Technical Head**
+* Organized events on computational thinking for school kids called as <u color="blue">[Prodigy](https://prodigy2017.github.io/)</u> with 60+ participants and hackathon exclusively for girls called <u color="blue">[Codher](https://codher2018.github.io/)</u> with participants from 5+ colleges
+* Managed technical operations of student run magazine <u color="blue">[Guindy Times](https://guindytimes.com/)</u> as **Technical Head**
 * Collaborated on open source projects with **College of Engineering, Guindy GNU/Linux Users Group (CEGLUG)**​, a group of GNU/Linux Enthusiasts
 * Active member of **GPU Club**​ in University of Winnipeg, Manitoba, Canada
