@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Projects
-=====
-
 * **Transformation of Facial Expression**<br>
   <i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;"></i> _July 2017 - May 2018_
     * Developed Neural Network architecture inspired from CycleGAN to transform emotion of face in an image. e.g smiling to crying
@@ -32,3 +29,9 @@ Projects
   * Proposed a Flood management system operating UAV’s equipped with LIDAR to patrol the flooded regions in real-time
   * Developed an algorithm for measuring flood levels, depth and height of the water channel, using LIDAR
   * Presented a <a href="goo.gl/DyqCZq" style="color:blue" target="_blank">paper</a> at LAMSYS, Indian Space Research Organization(ISRO)
+
+* **Airlock**<br>
+<i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;">Aug 2015 - Jan 2016
+  * Created a electronic pattern lock that unlocks when patterns are drawn in air
+  * Leveraged Ultraviolet sensors coupled with Arduino to sense finger movements with 95% accuracy
+  * Achieved funding from Kurukshetra Project Management, a International techno-management fest with UNESCO Patronage
