@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muthu Palaniappan Alagappan"
 title_separator          : "-"
 name                     : &name "Muthu Palaniappan Alagappan"
-description              : &description "personal description"
+description              : &description "Personal Website"
 url                      : "https://muthu.ml" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amuthu1996/academicpages.github.io"
@@ -81,9 +81,10 @@ analytics:
 author:
   name             : "Muthu Palaniappan Alagappan"
   avatar           : "muthu_pic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "CS grad student @USC | Juggler"
   location         : "Los Angeles"
-  employer         :
+  employer         : "University of Southern California"
+  employer_link    : "https://www.usc.edu/"
   googlescholar    :
   email            : "muthupaa@usc.edu"
   uri              :
