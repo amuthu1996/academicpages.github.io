@@ -13,25 +13,25 @@ author_profile: true
     * Transformed Images with 70% pixel-to-pixel accuracy using Python, OpenCV and Tensorflow
 
 * **Sketches to Pokemon Faces**<br>
-  <i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;"></i>Dec 2016 - Apr 2017
+  <i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;"></i> _Dec 2016 - Apr 2017_
     * Developed a Neural Network to generate images of pokemon faces from its rough sketches
     * Engineered Conditional Generative Adversarial Network (cGAN) with Tensorflow, Python
     * Awarded 3rd prize at Technology and Innovative Project (TIP) day among 100+ projects
 
 * **Geo spatial Analysis**<br>
-<i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;">July 2016 - Nov 2016
+<i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;"> _July 2016 - Nov 2016_
   * Created web-app to gather, analyze crowd sourced geographical data – street lights, crime, potholes, garbage dump, etc.
   * Designed an algorithm to provide recommendations like safe routes, hygiene or disease outbreak employing Geographic Information System (GIS)
   * Utilized qGIS, OpenStreetMaps(OSM), MapBox, Python, Leaflet JS
 
 * **SatComm Assisted Intelligent Flood Management System**<br>
-<i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;">May 2016 - July 2016
+<i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;"> _May 2016 - July 2016_
   * Proposed a Flood management system operating UAV’s equipped with LIDAR to patrol the flooded regions in real-time
   * Developed an algorithm for measuring flood levels, depth and height of the water channel, using LIDAR
   * Presented a <a href="goo.gl/DyqCZq" style="color:blue" target="_blank">paper</a> at LAMSYS, Indian Space Research Organization(ISRO)
 
 * **Airlock**<br>
-<i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;">Aug 2015 - Jan 2016
+<i class="fa fa-clock-o" aria-hidden="true" style="margin-right: 5px;"> _Aug 2015 - Jan 2016_
   * Created a electronic pattern lock that unlocks when patterns are drawn in air
   * Leveraged Ultraviolet sensors coupled with Arduino to sense finger movements with 95% accuracy
   * Achieved funding from Kurukshetra Project Management, a International techno-management fest with UNESCO Patronage
