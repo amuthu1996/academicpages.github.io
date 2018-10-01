@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Muthu Palaniappan Alagappan"
+title                    : "Muthu"
 title_separator          : "-"
 name                     : &name "Muthu Palaniappan Alagappan"
 description              : &description "Personal Website"
