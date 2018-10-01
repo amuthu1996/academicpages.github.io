@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my <u><a href="/files/MuthuAlagappan.pdf" style="color: blue">resume</a></u>
+You can also download my <u><a href="/files/MuthuAlagappan.pdf" style="color: blue" target = "_blank">resume</a></u>
 {: .notice}
 
 
@@ -25,7 +25,7 @@ Work experience
   * Duties included:
     * Researching in a group of 3 to track fruit-flies using synchronized cameras
     * Developing a program to map the ability of fruit-flies against their age using OpenCV, C++, R
-  * Supervisor: <a href="https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003772" style="color: blue">Professor Dr. John Tower</a>
+  * Supervisor: <a href="https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003772" style="color: blue" target = "_blank"> Professor Dr. John Tower</a>
 
 * Summer 2017: **Research Assistant**
   * University of Winnipeg
@@ -34,7 +34,7 @@ Work experience
     * Implemented Neural Network architecture based on VGG and FCN using Python, Tensorflow and, Matlab
     * Achieved an accuracy of 88% for land use and land cover classification
     * Accepted at International Journal of Remote Sensing​, paper entitled “Automated LULC Map Production using Deep Neural Networks”
-  * Supervisor: <a href="https://www.acs.uwinnipeg.ca/chenry/" style="color: blue">Dr. Chris Henry</a>
+  * Supervisor: <a href="https://www.acs.uwinnipeg.ca/chenry/" style="color: blue" target = "_blank">Dr. Chris Henry</a>
 
 Area Of Interests
 ======
@@ -54,7 +54,7 @@ Skills
 Service and leadership
 ======
 * Led the Student chapter ​of **Association of Computer Machinery (ACM)** ​as **Chairperson** ​from **July 2017 - Apr 2018**
-* Organized events on computational thinking for school kids called as <a href="https://prodigy2017.github.io/" style="color: blue">Prodigy</a> with 60+ participants and hackathon exclusively for girls called <a  href="https://codher2018.github.io/" style="color: blue">Codher</a> with participants from 5+ colleges
-* Managed technical operations of student run magazine <a href="https://guindytimes.com/" style="color: blue">Guindy Times</a> as **Technical Head**
+* Organized events on computational thinking for school kids called as <a href="https://prodigy2017.github.io/" style="color: blue" target = "_blank">Prodigy</a> with 60+ participants and hackathon exclusively for girls called <a  href="https://codher2018.github.io/" style="color: blue" target = "_blank">Codher</a> with participants from 5+ colleges
+* Managed technical operations of student run magazine <a href="https://guindytimes.com/" style="color: blue" target = "_blank">Guindy Times</a> as **Technical Head**
 * Collaborated on open source projects with **College of Engineering, Guindy GNU/Linux Users Group (CEGLUG)**​, a group of GNU/Linux Enthusiasts
 * Active member of **GPU Club**​ in University of Winnipeg, Manitoba, Canada
